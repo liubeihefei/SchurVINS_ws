@@ -1,2 +1,2 @@
 # Schurvins_ws
-Schurvins on Ubuntu20.04 &amp; ROS Noetic; Arm64
+Schurvins on Ubuntu20.04 &amp; ROS Noetic &amp; Arm64
